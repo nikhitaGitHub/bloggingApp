@@ -1,6 +1,7 @@
 ## Steps to run:
-    1) npm install ( I had to use npm cache clean --force before npm install)
-    2) npm start
+    1) git clone 
+    2) npm install ( I had to use npm cache clean --force before npm install)
+    3) npm start
 ## USAGE :
 localhost:3000
 ## urls : 
