@@ -7,7 +7,7 @@ localhost:3000
 ## urls : 
         '/': registeration/login screen
         '/create-blog' : create a new blog
-        '/view blogs': Blog owner can see all his blogs (posted and unposed)
+        '/view-blogs': Blog owner can see all his blogs (posted and unposed)
                         Here user can edit a blog and delete a unposed blog
         '/home' :user can see all blogs by all users where most recent post is at the top
 
