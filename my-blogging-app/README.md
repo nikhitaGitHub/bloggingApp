@@ -12,7 +12,7 @@ localhost:3000
         '/home' :user can see all blogs by all users where most recent post is at the top
 
 ## Description
-I created a simple and basic website compatible with chrome broswer. The front end is in reactjs and backend utilizes firebase realitime DB to store and manipulate data. I use the available API 'fetch' through the browser to send requests to the firebase server. some components are made with bootstrap like modals. Although I have always relied on 3rd parties to provide designs , I came up with a simple mockup to convert into website taking inspiration from facebook's blue white color shceme and inspiration from stackoverflow's simple plain presentation of just the recent posts. Basic requirements as follows are met :
+I created a simple and basic website for laptops only compatible with chrome broswer. The front end is in reactjs and backend utilizes firebase realitime DB to store and manipulate data. I use the available API 'fetch' through the browser to send requests to the firebase server. some components are made with bootstrap like modals. Although I have always relied on 3rd parties to provide designs , I came up with a simple mockup to convert into website taking inspiration from facebook's blue white color shceme and inspiration from stackoverflow's simple plain presentation of just the recent posts. Basic requirements as follows are met :
 
 ## Some more detail
 - User can signup/login to the portal :
