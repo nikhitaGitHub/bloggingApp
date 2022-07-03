@@ -1,8 +1,8 @@
 ## Steps to run:
     1) npm install ( I had to use npm cache clean --force before npm install)
     2) npm start
-    3) USAGE :
-
+## USAGE :
+localhost:3000
 ## urls : 
         '/': registeration/login screen
         '/create-blog' : create a new blog

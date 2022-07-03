@@ -88,7 +88,6 @@ const AuthPage = () => {
             })
             //Finally handle the success case or error case
             .then((data) => {
-                console.log(data)
                 if(flag === 0) {
                     if (data === undefined) {
                         authCtx.login('')
